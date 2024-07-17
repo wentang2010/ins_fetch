@@ -1,0 +1,16 @@
+[db]
+url = "mongodb://root:111111@localhost:27017"
+db_name = "ins_db"
+
+[redis]
+redis_connection_url = ""
+
+[work_id]
+work_id = 1
+
+[chain]
+url = "http://127.0.0.1:8899"
+filter_address = ["ESgBgi1fKTCLtR8cw2Dhm9Lu11c7EuRwhFQ76AcQk79Y"]
+
+[server]
+port = 9000

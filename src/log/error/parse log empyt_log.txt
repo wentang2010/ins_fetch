@@ -1,0 +1,84 @@
+
+31, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:44:59.569299Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:00.787281Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:02.354251Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:07.041579Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:08.303102Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:09.663519Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:10.890940Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:12.229805Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:13.446800Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:14.687589Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:15.925553Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:17.127385Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:18.343296Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xa82656f9e5405af0d80539f7831c8ef3fe4c5bef, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:19.605647Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:20.839272Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:22.046348Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:23.398992Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:24.597712Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:25.973474Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:27.586006Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:29.291892Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:31.235609Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:32.739866Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:34.392672Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:36.282990Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:38.355607Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:39.896580Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:41.528840Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:42.765033Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:44.165625Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:46.213429Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:48.708046Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xcdff6ddfc9e4807c9927fd58708c2ef3484cc305, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:50.289963Z  WARN price_oracle::cal_price: src\cal_price\mod.rs:373: can't infer price from pool, for log: SwapLog { chain_id: "ETH", pool: "0x0002e63328169d7feea121f1e32e4f620abf0352", swap_key: "uniswap_v3", from: "0xe4000004000bd8006e00720000d27d1fa000d43e", to: "0xe4000004000bd8006e00720000d27d1fa000d43e", token_0: "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE", token_1: "0x903bEF1736CDdf2A537176cf3C64579C3867A881", symbol_0: "wNXM", symbol_1: "ICHI", name_0: "", name_1: "", 
+decimal_0: 18, decimal_1: 9, is_order_book: false, trade_direction: 1, amount_0: 3003720618528051136, amount_1: 41219359019, block_number: 17782318, tx_index: 5, tx_hash: "0x852c38a68b6110cbd4fe46b2f1f8e867b94608102f823e94288db6b64fee0232" }, we use cmc usd price.
+2023-07-27T05:45:53.529177Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:55.919953Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:45:58.300593Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:05.047594Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x371a0985d104c706cafa26ffb990f55ba55bf6c5, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:08.736789Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:09.948401Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:11.537821Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:15.062532Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:18.663772Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:20.575211Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:28.029066Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:29.231680Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:31.424738Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:33.292356Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:36.763228Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:39.272881Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:40.491156Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:45.291780Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:46.490282Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:48.386210Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:49.874601Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:51.390779Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:52.921526Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:54.128906Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:46:58.350666Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xa82656f9e5405af0d80539f7831c8ef3fe4c5bef, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:03.469616Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:07.467852Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:08.674837Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:10.642444Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:13.133769Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:15.076812Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:16.718925Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:17.925618Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316, 
+chain_id: Eth, event: UniSwapV3
+2023-07-27T05:47:19.224556Z  WARN price_oracle::common::enums: src\common\enums.rs:216: parse log message is empty. for pool :0xe8c6c9227491c0a8156a0106a0204d881bb7e531,

@@ -1,0 +1,17 @@
+create pair log PairCreatedFilter { token_0: 0x58834cd5bbca1ece11ba939639167bee5881f0ff, token_1: 0xdac17f958d2ee523a2206206994597c13d831ec7, pair: 0x88afe603a34cc518396414bb13c48d1a9a50a596, p3: 204685 }
+create pair meta LogMeta { address: 0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f(factory), block_number: 17570015, block_hash: 0xe5b79996d5b479681532151e3e094cb71e570cfe4e176c7fe2d10501046f357b, transaction_hash: 0x07e15abcd138e0f45698ebabb779aee2b96e959e60a90b38988f1ec9d8295ee5, transaction_index: 120, log_index: 157 }
+
+
+
+mint
+MintFilter { sender: 0x7a250d5630b4cf539739df2c5dacb4c659f2488d(factory), amount_0: 1051725000000000000000000000000, amount_1: 32994284241285454 }
+mint meta LogMeta { address: 0xd11a5c75c12851b2c2a69af70e43c66165441854(pair address), block_number: 17590142, block_hash: 0x3da16bb59ebebad0e67008c9198f23469b89556b2bcb24d714fe8a198173a92b, transaction_hash: 0x9c39af4950faca3e4e7357b248d3182490a7e777a25e9ba2ab0a31a98b65746d, transaction_index: 114, log_index: 349 }
+
+
+burn
+burn log BurnFilter { sender: 0x7a250d5630b4cf539739df2c5dacb4c659f2488d(factory), amount_0: 1962678796864642, amount_1: 33999999999999999, to: 0x7a250d5630b4cf539739df2c5dacb4c659f2488d }
+burn meta LogMeta { address: 0x4f51cbc05b5e64b91f6866e12d93b9fe37dcc5e3(pair address), block_number: 17590191, block_hash: 0xe152f6a93e2c41c437a67808bf06335c4a3c1ebb9f91097354127512e0891a2d, transaction_hash: 0x4bf4251d07251d78fad35cbf6c098a853b22799328cf2024117928056a77958c, transaction_index: 106, log_index: 221 }
+ 
+swap
+SwapFilter { sender: 0x7a250d5630b4cf539739df2c5dacb4c659f2488d（factory）, amount_0_in: 200000000000000000, amount_1_in: 0, amount_0_out: 0, amount_1_out: 15974766957833, to: 0x9d34151abe8d1594e74f463d350840119ab0689b(user) }
+LogMeta { address: 0xe016d2827b39c146c40e134425787885113bc526(pair address), block_number: 17589250, block_hash: 0xd9bddf7f9d274cd3d053c8c51f4d19c50a0e748891aee886a5811d058094863a, transaction_hash: 0x0cd6699720403121f80a0d5ba6aadc93e5696c705061e37126f22a3b48a0684d, transaction_index: 13, log_index: 48 }

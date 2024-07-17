@@ -1,0 +1,34 @@
+[db]
+# TODO: change in different environments
+# url = "mongodb://root:111111@localhost:27017"
+url = "mongodb://localhost:27017"
+db_name = "ins_db"
+
+[redis]
+redis_connection_url = ""
+
+[work_id]
+work_id = 1
+
+[chain]
+# slot 270331426
+# latest slot  280102866 , 280104186, 280104188
+# temp process 280137260
+# solana devnet rpc
+# url = "https://api.devnet.solana.com"
+# url = "https://solana-devnet.g.alchemy.com/v2/xOw_vw5ZnqjQsPr9ILoZcA98LV5rrGVJ"
+# url = "https://devnet.helius-rpc.com/?api-key=649c8e12-172f-421c-96b1-e89887ca62b6"
+url = "https://nd-325-004-499.p2pify.com/8dd14e53c43bff20a51d91155c9a1891"
+# url = "https://nd-450-508-404.p2pify.com/ef6ad25e6c7bbf6593ca5dcb01f28507"
+# ws wss://ws-nd-325-004-499.p2pify.com/8dd14e53c43bff20a51d91155c9a1891
+filter_address = ["5CMEFH2e3n8S6uzYUoKVRgS71aCnPYcsAAQgxvMfB4Ld"]
+
+[server]
+port = 7000
+
+[account]
+account_book = "4TKYU9vw627hwQwAGueA2yDNKYc6nUP772h9Vb3pngQr"
+program_id = "5CMEFH2e3n8S6uzYUoKVRgS71aCnPYcsAAQgxvMfB4Ld"
+inscription_size = 289
+replica_ins_size = 135
+ins_meta_size = 102

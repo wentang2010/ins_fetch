@@ -1,0 +1,165 @@
+
+2023-07-27T03:17:20.215283Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x371a0985d104c706cafa26ffb990f55ba55bf6c5
+2023-07-27T03:17:21.829739Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:USDT, key_0: 0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A, key_1:0xdAC17F958D2ee523a2206206994597C13D831ec7
+2023-07-27T03:17:24.204683Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:31.194334Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:31.202392Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:32.385102Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:32.727396Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:33.912302Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:35.131384Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:36.319430Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:38.113626Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:39.296649Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:39.892148Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:41.075029Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:47.131437Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:48.372249Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:48.380925Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:17:49.562854Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:50.368782Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:51.576855Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:52.222951Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:53.427509Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:55.537578Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:56.718281Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:57.847732Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:17:59.023823Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:17:59.055912Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:00.292851Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:01.179574Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x8db1b906d47dfc1d84a87fc49bd0522e285b98b9
+2023-07-27T03:18:02.648638Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xa93b93e064cbbd46a283427c21370734bde5c7d1
+2023-07-27T03:18:03.942745Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x8df016708a66377dae191ca6f9fff4705a3d951f
+2023-07-27T03:18:05.719744Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x2f62f2b4c5fcd7570a709dec05d68ea19c82a9ec
+2023-07-27T03:18:06.974181Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x546d4695c4fff0e0adf0d904ccde3a13472f9480
+2023-07-27T03:18:08.308855Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xfe0b65c9233145a5b980c7a8751256b63f0d557e
+2023-07-27T03:18:09.637068Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xd0fc8ba7e267f2bc56044a7715a489d851dc6d78
+2023-07-27T03:18:10.944589Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x759dbbd29f06764560b34eae01ca7f48831a9be1
+2023-07-27T03:18:12.317323Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x261d53f3cd0b38dabbab252dcc8adeaa8c67bcba
+2023-07-27T03:18:13.633373Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xf5e4a4480f5e73cfe697384525d6f4a07617ac71
+2023-07-27T03:18:14.954697Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x4ec7d47cfd3f35e47b86f9eaa31cb9d3ee1e801a
+2023-07-27T03:18:16.257885Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xea4ba4ce14fdd287f380b55419b1c5b6c3f22ab6
+2023-07-27T03:18:17.680501Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3328ca5b535d537f88715b305375c591cf52d541
+2023-07-27T03:18:18.930465Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x446b057cb6f042e358ac9fe8b7eeb6c1ae8cc952
+2023-07-27T03:18:20.258928Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf
+2023-07-27T03:18:21.495857Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xa5ef2a6bbe8852bd6fd2ef6ab9bb45081a6f531c
+2023-07-27T03:18:23.054393Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x0b1debf6f99a5e2b240296219b76dfebb2183f16
+2023-07-27T03:18:24.429557Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xc3881fbb90daf3066da30016d578ed024027317c
+2023-07-27T03:18:25.789685Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:26.964560Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:26.974372Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:18:28.159654Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:28.468831Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x7e6f87150859315ae9f92958156f3a0107382316
+2023-07-27T03:18:29.972714Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x4b5ab61593a2401b1075b90c04cbcdd3f87ce011
+2023-07-27T03:18:31.292240Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xf935f557e06a7d040dea4691f90c9a755301818b
+2023-07-27T03:18:32.653966Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:33.842835Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:33.916208Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x6c6bc977e13df9b0de53b251522280bb72383700
+2023-07-27T03:18:35.214118Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xa4bd201c839755948e4eaec754214f2b8a6e5955
+2023-07-27T03:18:36.591978Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:18:37.819877Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:38.034099Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x755f01736f93c91585b840c2179c560b754d69f3
+2023-07-27T03:18:39.313386Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x9cb91e5451d29c84b51ffd40df0b724b639bf841
+2023-07-27T03:18:41.604992Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x371a0985d104c706cafa26ffb990f55ba55bf6c5
+2023-07-27T03:18:42.801879Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:USDT, key_0: 0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A, key_1:0xdAC17F958D2ee523a2206206994597C13D831ec7
+2023-07-27T03:18:45.150772Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:46.437840Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:46.447459Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:47.644856Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:47.983706Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:49.179699Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:50.446204Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:51.650574Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:53.431411Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:54.612390Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:18:55.191081Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:18:56.373546Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:02.853151Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:04.053110Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:04.063848Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:19:05.272822Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:06.083864Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:07.293151Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:07.934624Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:09.137243Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:11.354515Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:12.538424Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:13.934195Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:15.173815Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:15.206901Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:16.401953Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:19.918776Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:21.119389Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:21.130128Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:19:22.327671Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:23.333181Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:24.525242Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:24.878166Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:19:26.073786Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:26.488335Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:19:27.673512Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:29.156895Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x371a0985d104c706cafa26ffb990f55ba55bf6c5
+2023-07-27T03:19:30.344991Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:USDT, key_0: 0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A, key_1:0xdAC17F958D2ee523a2206206994597C13D831ec7
+2023-07-27T03:19:33.465361Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:34.748534Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:34.758824Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:35.947480Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:36.278152Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:37.464110Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:38.760000Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:39.964693Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:41.813228Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:43.021904Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:43.649633Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:44.861641Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:51.227870Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e531
+2023-07-27T03:19:52.434904Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:52.444230Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0x3afdc5e6dfc0b0a507a8e023c9dce2cafc310316
+2023-07-27T03:19:53.678220Z ERROR price_oracle::event_process: src\event_process\mod.rs:88: parse_log error: ----> load pool meta faield in load_pool_meta_in_multi_chain, ERC20 
+token is invalid in load_pool_meta_v3, symbol_0:, symbol_1:WETH, key_0: 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2, key_1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+2023-07-27T03:19:54.595930Z  INFO price_oracle::common::util: src\common\util.rs:575: load meta for uniswapv3 event, pool:0xe8c6c9227491c0a8156a0106a0204d881bb7e5

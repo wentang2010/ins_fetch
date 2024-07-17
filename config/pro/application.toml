@@ -1,0 +1,25 @@
+[db]
+url = "mongodb://localhost:27017"
+db_name = "ins_db"
+
+[redis]
+redis_connection_url = ""
+[work_id]
+work_id = 1
+
+[chain]
+# mainnet test url
+# url = "https://solana-mainnet.core.chainstack.com/ddc4e66e8df8a96124e9461166343e8c"
+url = "https://solana-mainnet.core.chainstack.com/f5c61bc7f2263272c2a30a4706cb22d7"
+
+filter_address = ["SodiCdqvrR6pRPvqUxxeh1qXW6rUXFpwgLbaSECffxx"]
+
+[server]
+port = 7000
+
+[account]
+account_book = "SodbiwdfLpZU8kKst7M7BCYruREfhf4DXj6tVxMpXD5"
+program_id = "SodiCdqvrR6pRPvqUxxeh1qXW6rUXFpwgLbaSECffxx"
+inscription_size = 289
+replica_ins_size = 135
+ins_meta_size = 102
